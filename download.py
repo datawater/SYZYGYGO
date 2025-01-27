@@ -1,7 +1,7 @@
 """
 The code is licensed under the MIT license.
 This software comes with absolutely NO warranty.
-Copyright (C) datawater 2024
+Copyright (C) datawater 2024-2025
 """
 
 #!/usr/bin/env python3
